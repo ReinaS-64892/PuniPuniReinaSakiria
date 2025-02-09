@@ -38,3 +38,5 @@ Prefab の PPRS の中にある PuniPuniReinaSakiriaRenderer というメッシ�
 - 飛行(移動時の差分)
 
 この通りに、並んだものであれば使用できると思います。
+
+C# が扱える方は、この PuniPuniReinaSakiria は MIT License なので自由に Fork して魔改造しちゃってくださいね！
