@@ -12,6 +12,7 @@ ReinaSakiria が [ぷにぷにアバター](https://x.com/rio3dWorks/status/1885
 - 連結機能
 - ボイス
 - コライダージャンプ
+- 吹き出し
 
 そして、PPRS(PuniPuniReinaSakiria) は Reina_Sakiria がイラストを描くときに各枚数を減らしたかったので、私が普段飛んでることが多いを利用して、歩行ではなく飛行の立ち絵を使うことにしたため、この PPRS は移動時に飛行することを想定したものになっています。
 
